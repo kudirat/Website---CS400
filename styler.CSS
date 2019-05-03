@@ -1,0 +1,68 @@
+body{
+background-color: #ffcccc;
+}
+
+h2
+{
+  font-family: cursive;
+  font-size: medium;
+  color: #80000;
+background-color: #80000;
+}
+h3
+{
+  font-family: cursive;
+  font-size: medium;
+  color: #80000;
+background-color: #80000;
+
+}
+
+h4 {
+
+  font-family: cursive;
+  font-size: medium;
+  color: #80000;
+background-color: #80000;
+
+}
+
+
+h1
+{
+  font-family: "Times New Roman",Georgia,serif;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+  color: ##8B0000;
+  background-color: #F7F4F0;
+}
+
+div {
+  border: 0.5rem outset pink;
+  outline: 0.5rem solid #B16C86;
+
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+ margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+}
+
+button{
+background-color: #F48B13; /* Green */
+  border: 0.5rem outset #F7F4F0;
+  color: #F7F4F0;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h5{
+  font-family: cursive;
+  font-size: medium;
+  color: #80000;
+background-color: #80000;
+}
